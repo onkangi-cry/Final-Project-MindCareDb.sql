@@ -42,4 +42,4 @@ License:
 MIT License
 
 Contact:
-Created by \[Anderson Onkangi] - \[[your-email@example.com](mailto:orangianderson04@gmail.com)] - GitHub: [https://github.com/your-username](https://github.com/onkangi-cry)
+Created by \[Anderson Onkangi] - \[[your-email@example.com](mailto:orangianderson04@gmail.com)] - GitHub: [https://github.com/your-username](https://github.com/onkangi-cry).
